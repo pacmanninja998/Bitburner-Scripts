@@ -1,0 +1,4 @@
+exec ("NUKE.script","home");
+exec ("deepscan-hack.script","home");
+exec ("deepscan-nuke.script","home");
+exec ("stocks.js","home");
