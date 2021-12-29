@@ -9,7 +9,7 @@ Scripts for Bitburner, An Epic Hacking Game
 ### Quick Start
 * for Easy retrieval of script and required/ suggested scripts type into terminal                                                                                      
 *   wget https://raw.githubusercontent.com/pacmanninja998/Bitburner-Scripts/main/StartHere.js /pacmanninja998/StartHere.js
-* next type run 
-*   StartHere.js
+* next type 
+* run pacmanninja998/StartHere.js
 ## Suggested scripts come from https://github.com/iuriguilherme/netscripts.d
 * I only take credit for HackXP.script, start.script, & StartHere.js
