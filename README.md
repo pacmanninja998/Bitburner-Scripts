@@ -8,6 +8,6 @@ Scripts for Bitburner, An Epic Hacking Game
 * Scripts are put together from different respitories and myself to help, those just starting.
 ### Quick Start
 * for Easy retrieval of script and required/ suggested scripts type                                                                                       
-* wget https://raw.githubusercontent.com/pacmanninja998/Bitburner-Scripts/main/StartHere.script /pacmanninja998/StartHere.script
+* wget https://raw.githubusercontent.com/pacmanninja998/Bitburner-Scripts/main/StartHere.js /pacmanninja998/StartHere.js
 * into terminal
 * Suggested scripts come from https://github.com/iuriguilherme/netscripts.d
