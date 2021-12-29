@@ -25,5 +25,6 @@ function localeHHMMSS(ms = 0) {
     await ns.sleep(200);
     ns.tprint(`[${localeHHMMSS()}] Trying to download ${path}`);
     await ns.wget(path + '?ts=' + new Date().getTime(), filename);
+    ns.tprint("All File Downloaded");
   }  
 }
