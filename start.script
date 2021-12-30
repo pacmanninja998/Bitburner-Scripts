@@ -1,4 +1,4 @@
-exec ("NUKE.script","home");
+tprint ("@pacmanninja998")
 exec ("deepscan-hack.script","home");
 exec ("deepscan-nuke.script","home");
 exec ("stocks.js","home");
