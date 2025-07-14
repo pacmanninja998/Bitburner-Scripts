@@ -12,4 +12,7 @@ Scripts for Bitburner, An Epic Hacking Game
 * next type 
 * run {User}/StartHere.js
 ## Suggested scripts come from https://github.com/iuriguilherme/netscripts.d
-* I only take credit for HackXP.script, start.script, & StartHere.js
+* I only take credit for HackXP.script, start.script, MaxStat.js, & StartHere.js
+
+## Update:
+* Added ***MaxStat.js*** to Max out all player stats and the player's money. <sup>7/14/2025</sup>
